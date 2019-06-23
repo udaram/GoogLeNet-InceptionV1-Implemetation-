@@ -8,4 +8,5 @@ Here You can find the implementation of Inception DeepLearning Architecture in k
 <a href="https://github.com/udaram/GoogLeNet-InceptionV1-Implemetation-/blob/master/Inception_V1%20Implementation.ipynb">Implementation File</a><br>
 <a href="https://github.com/udaram/GoogLeNet-InceptionV1-Implemetation-/blob/master/InceptionV1.png">Implemented Architecture Look</a><br>
 
+Markup :  - - - -
 Markup : ![picture alt](https://github.com/udaram/GoogLeNet-InceptionV1-Implemetation-/blob/master/InceptionV1.png"Model Architecture")
